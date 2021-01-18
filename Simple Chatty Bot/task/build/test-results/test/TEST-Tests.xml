@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-01-18T01:37:28" hostname="MacBook-Pro-de-Mauricio.local" time="0.201">
+  <properties/>
+  <testcase name="start" classname="Tests" time="0.201"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+Hello! My name is botAI
+I was created in 2021
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
