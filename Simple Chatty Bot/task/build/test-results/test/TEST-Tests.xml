@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-01-18T01:37:28" hostname="MacBook-Pro-de-Mauricio.local" time="0.201">
+<testsuite name="Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-01-18T17:44:29" hostname="MacBook-Pro-de-Mauricio.local" time="0.337">
   <properties/>
-  <testcase name="start" classname="Tests" time="0.201"/>
+  <testcase name="start" classname="Tests" time="0.337"/>
   <system-out><![CDATA[?[1;31m
 Start test 1?[0m
-Hello! My name is botAI
-I was created in 2021
+Hi! I am Bott.
+I was created in 2021.
+Please, remind me your name.
+> John
+What a great name you have, John!
+?[1;31m
+Start test 2?[0m
+Hi! I am Bott.
+I was created in 2021.
+Please, remind me your name.
+> Nick
+What a great name you have, Nick!
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
