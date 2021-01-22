@@ -7,7 +7,7 @@ class Main {
         int intM = scanner.nextInt(); // Width.
         int intK = scanner.nextInt(); // A Segment
 
-        if (intK % intN == 0 && intK / intN <= intM || intK % intM == 0 && intK / intM < intN) {
+        if (intK % intN == 0 && intK < intM * intN || intK % intM == 0 && intK < intM * intN) {
             System.out.println("YES");
         } else {
             System.out.println("NO");
